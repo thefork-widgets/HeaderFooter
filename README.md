@@ -1,6 +1,1 @@
-/********************************************/
-/*                                          */
-/*      Elimina cabecera e invierte         */
-/*           color icono footer             */
-/*                                          */
-/********************************************/ 
+Elimina cabecera e invierte color icono footer 
