@@ -1,2 +1,3 @@
-Elimina cabecera e invierte color icono footer 
-Paste css and js in TFM -> GoogleAnalytics 
+Remove header and invert color footer icon 
+
+Paste css and js in TFM -> GoogleAnalytics
